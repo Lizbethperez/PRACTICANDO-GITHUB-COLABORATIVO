@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+}
+.format-section{
+  display: inline-block;
+  position:relative;
+  width:50%;
+  border:1px solid black;
+  height: 30vh;
+  background-color: purple;
+  color:white;
+}
